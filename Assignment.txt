@@ -1,2 +1,6 @@
 This is the first calss of the git usage
 version 1.0 is here. lets save this using git bash
+==============
+
+version 2.0
+adding some more data into the file for more content.
